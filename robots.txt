@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-8nlll3.trans88.biz/sitemap.xml
